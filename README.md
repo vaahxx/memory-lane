@@ -25,9 +25,18 @@ While it's true that employing Next.js may be perceived as overengineering, the 
 
 ## Screenshots
 
-### Create user
+### Mobile
 
-### Memory lane
+<img width="427" alt="image" src="https://github.com/vaahxx/memory-lane/assets/39314687/8df3edea-316a-48b2-98a7-8f057f2b5b69">
+
+<img width="427" alt="image" src="https://github.com/vaahxx/memory-lane/assets/39314687/4bfae8de-4c77-4062-86a4-d96bf04586c7">
+
+### Desktop
+
+<img width="1673" alt="image" src="https://github.com/vaahxx/memory-lane/assets/39314687/2575a1a0-c846-4ca9-9f82-840ed04f5837">
+<img width="1675" alt="image" src="https://github.com/vaahxx/memory-lane/assets/39314687/3f0048fe-8f9e-46b0-86bf-43a268873c17">
+<img width="1670" alt="image" src="https://github.com/vaahxx/memory-lane/assets/39314687/953cc665-62b4-400a-ae92-917e49f43187">
+<img width="1673" alt="image" src="https://github.com/vaahxx/memory-lane/assets/39314687/8750058b-fb2d-42eb-abb7-dfc0e6fd5dc9">
 
 ## Demo
 
