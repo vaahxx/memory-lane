@@ -1,0 +1,175 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Biography if is editing, then biography form is rendered 1`] = `
+<form
+  class="flex flex-col gap-3 w-full"
+  data-testid="biography-form"
+>
+  <div
+    class="mb-6 flex flex-col justify-items-start"
+  >
+    <input
+      name="user_id"
+      type="hidden"
+      value="123"
+    />
+    <label
+      class="block mb-2 text-sm font-medium text-gray-900"
+      for="biography"
+    >
+      Biography
+    </label>
+    <textarea
+      class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-green-300 focus:border-green-300 block w-full p-2.5 h-36"
+      id="biography"
+      name="biography"
+      placeholder="Tell us about yourself"
+      required=""
+    >
+      Hello, world!
+    </textarea>
+  </div>
+  <div
+    class="flex justify-end gap-5"
+  >
+    <button
+      class="flex gap-2 items-center group transition-all ease-in duration-75"
+      type="button"
+    >
+      <span
+        class="flex items-center gap-2 text-base bg-gradient-to-br group-hover:from-green-400 group-hover:to-blue-600 group-hover:bg-clip-text group-hover:text-transparent"
+      >
+        <span>
+          Cancel
+        </span>
+      </span>
+    </button>
+    <button
+      class="flex items-center justify-center py-5 px-[0.15rem] overflow-hidden text-gray-900 rounded-lg group bg-gradient-to-br from-green-400 to-blue-600 group-hover:from-green-400 group-hover:to-blue-600 hover:text-white max-h-8"
+      type="submit"
+    >
+      <span
+        class="flex items-center gap-2 text-base px-1.5 py-1.5 transition-all ease-in duration-75 bg-white rounded-md group-hover:bg-opacity-0"
+      >
+        <span>
+          Update
+        </span>
+      </span>
+    </button>
+  </div>
+</form>
+`;
+
+exports[`Biography renders the button 1`] = `
+<div>
+  <div
+    class="flex bg-white shadow p-6 rounded-lg gap-8 w-full"
+  >
+    <div
+      class="flex items-center justify-between w-full"
+    >
+      <p
+        class="text-lg whitespace-pre-line"
+      >
+        Hello, world!
+      </p>
+      <button
+        class="flex gap-2 items-center group transition-all ease-in duration-75"
+      >
+        <span
+          class="flex items-center gap-2 text-base bg-gradient-to-br group-hover:from-green-400 group-hover:to-blue-600 group-hover:bg-clip-text group-hover:text-transparent"
+        >
+          <span>
+            <svg
+              aria-hidden="true"
+              class="h-6 w-7 flex hover:stroke-green-400 transition-all ease-in duration-75"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.5"
+              viewBox="0 0 24 24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M16.862 4.487l1.687-1.688a1.875 1.875 0 112.652 2.652L10.582 16.07a4.5 4.5 0 01-1.897 1.13L6 18l.8-2.685a4.5 4.5 0 011.13-1.897l8.932-8.931zm0 0L19.5 7.125M18 14v4.75A2.25 2.25 0 0115.75 21H5.25A2.25 2.25 0 013 18.75V8.25A2.25 2.25 0 015.25 6H10"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </svg>
+          </span>
+        </span>
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Biography renders the button 2`] = `
+<button
+  class="flex gap-2 items-center group transition-all ease-in duration-75"
+>
+  <span
+    class="flex items-center gap-2 text-base bg-gradient-to-br group-hover:from-green-400 group-hover:to-blue-600 group-hover:bg-clip-text group-hover:text-transparent"
+  >
+    <span>
+      <svg
+        aria-hidden="true"
+        class="h-6 w-7 flex hover:stroke-green-400 transition-all ease-in duration-75"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="1.5"
+        viewBox="0 0 24 24"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M16.862 4.487l1.687-1.688a1.875 1.875 0 112.652 2.652L10.582 16.07a4.5 4.5 0 01-1.897 1.13L6 18l.8-2.685a4.5 4.5 0 011.13-1.897l8.932-8.931zm0 0L19.5 7.125M18 14v4.75A2.25 2.25 0 0115.75 21H5.25A2.25 2.25 0 013 18.75V8.25A2.25 2.25 0 015.25 6H10"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+      </svg>
+    </span>
+  </span>
+</button>
+`;
+
+exports[`Biography renders the text 1`] = `
+<div>
+  <div
+    class="flex bg-white shadow p-6 rounded-lg gap-8 w-full"
+  >
+    <div
+      class="flex items-center justify-between w-full"
+    >
+      <p
+        class="text-lg whitespace-pre-line"
+      >
+        Hello, world!
+      </p>
+      <button
+        class="flex gap-2 items-center group transition-all ease-in duration-75"
+      >
+        <span
+          class="flex items-center gap-2 text-base bg-gradient-to-br group-hover:from-green-400 group-hover:to-blue-600 group-hover:bg-clip-text group-hover:text-transparent"
+        >
+          <span>
+            <svg
+              aria-hidden="true"
+              class="h-6 w-7 flex hover:stroke-green-400 transition-all ease-in duration-75"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.5"
+              viewBox="0 0 24 24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M16.862 4.487l1.687-1.688a1.875 1.875 0 112.652 2.652L10.582 16.07a4.5 4.5 0 01-1.897 1.13L6 18l.8-2.685a4.5 4.5 0 011.13-1.897l8.932-8.931zm0 0L19.5 7.125M18 14v4.75A2.25 2.25 0 0115.75 21H5.25A2.25 2.25 0 013 18.75V8.25A2.25 2.25 0 015.25 6H10"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </svg>
+          </span>
+        </span>
+      </button>
+    </div>
+  </div>
+</div>
+`;
