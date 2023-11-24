@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Modal Component renders the Modal component with trigger button 1`] = `
+<div
+  data-testid="modal-content"
+>
+  Modal Content
+</div>
+`;

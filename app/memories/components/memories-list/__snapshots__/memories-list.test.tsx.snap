@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MemoriesList Component renders memory cards when memories are provided 1`] = `
+<img
+  alt="Memory"
+  class="object-cover rounded-full shadow border-2 w-[100px] h-[100px]"
+  data-nimg="1"
+  decoding="async"
+  height="100"
+  loading="lazy"
+  src="/_next/image?url=%2Fimages%2Fmemory1.jpg&w=256&q=75"
+  srcset="/_next/image?url=%2Fimages%2Fmemory1.jpg&w=128&q=75 1x, /_next/image?url=%2Fimages%2Fmemory1.jpg&w=256&q=75 2x"
+  style="color: transparent;"
+  width="100"
+/>
+`;
